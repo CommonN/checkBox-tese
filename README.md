@@ -30,7 +30,7 @@ html and javascript Multi-Check Testing Program
 
 ## 组件要求:
 
-![demo](./demo.png)
+![demo](demo.png)
 
 1. 组件有一个标签
 2. 特殊的“select all (全选)”选项
